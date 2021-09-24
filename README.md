@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chienhuikuo&label=Profile%20views&color=0e75b6&style=flat" alt="chienhuikuo" /> </p>
 
-- 🌱 I’m currently learning **Vue.js. Tailwind CSS and Webpack**
+- 🌱 I’m currently learning **React.js. Newman and Nginx**
 
 - 📫 How to reach me **chienhui8130@gmail.com**
 
